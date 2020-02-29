@@ -10,6 +10,10 @@ var __CODER_RULES__ = [
   ".nestjs.com",
   "||webpack.js.org",
   ".webpack.js.org",
+  ".mongodb.com",
+  "||mongodb.com",
+  "||steampowered.com",
+  ".steampowered.com"
 ];
 var __RULES__ = [
   "|http://85.17.73.31/",
