@@ -13,7 +13,9 @@ var __CODER_RULES__ = [
   ".mongodb.com",
   "||mongodb.com",
   "||steampowered.com",
-  ".steampowered.com"
+  ".steampowered.com",
+  ".vuejs.org",
+  "||vuejs.org",
 ];
 var __RULES__ = [
   "|http://85.17.73.31/",
